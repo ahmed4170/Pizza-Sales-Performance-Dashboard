@@ -1,11 +1,11 @@
 # 🍕 Pizza Sales Performance Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This project transforms raw transactional data from a pizza restaurant into a dynamic, interactive dashboard. By implementing a professional **Star Schema** data modeling approach, I analyzed over **48,600 orders** to uncover trends in customer behavior, peak sales periods, and product performance.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Tool:** Microsoft Excel
 * **Data Engine:** Power Query (ETL) & Power Pivot (Data Modeling)
 * **Analysis:** Pivot Tables & DAX (Data Analysis Expressions)
@@ -13,7 +13,7 @@ This project transforms raw transactional data from a pizza restaurant into a dy
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Data Preprocessing (ETL)
 Using **Power Query**, I cleaned and prepared the raw data for analysis:
@@ -48,28 +48,29 @@ The final stage was the creation of a user-centric, interactive interface:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 * **Revenue Leader:** The **Classic** category is the primary revenue driver ($220K+), while the **Thai Chicken Pizza** is the individual top performer ($43.4K).
 * **Peak Demand:** The **Afternoon** (12 PM – 4 PM) and **Evening** (4 PM – 8 PM) slots account for the vast majority of sales, generating over $700,000 combined.
 * **Size Preference:** **Large (L)** size pizzas are the most popular, contributing significantly more to revenue ($375.3K) than Medium or Small sizes.
 
 ---
 
-## 🖼️ Dashboard Preview
-![Dashboard Main View](images/dashboard_main.png)
-*(Upload your dashboard screenshot to an 'images' folder and link it here)*
+## Dashboard Preview
+![Dashboard Main View](images/D1.png)
+![Second Dashboard View](images/D2.png)
 
-## 📐 Data Model View
-![Data Model View](images/data_model.png)
-*(Upload a screenshot of your Power Pivot Diagram View here)*
+## Data Model View
+![Data Model View](images/DM.png)
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the `Final Project.xlsx` file from this repository.
 2. Open the file in Microsoft Excel.
 3. Click "Enable Content" if prompted to allow Data Connections and Power Pivot.
 4. Interact with the **Slicers** and **Timeline** on the Dashboard sheet to explore the data.
 
 ---
-**Contact:** [Your Name] | [Your LinkedIn Profile]
+**Contact:** Ahmed Hewidi | www.linkedin.com/in/ahmedhewidi1710
+
+
